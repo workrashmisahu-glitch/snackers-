@@ -1,0 +1,6 @@
+{
+  "name": "Forest Snake Slither",
+  "description": "A retro arcade runner where a serpent slithers across a forest floor of rocks, moss, and stones, dodging stone obstacles and drinking neon energy cans to trigger 2x high-energy surges against mountains, pine trees, and bats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
